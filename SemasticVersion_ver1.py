@@ -14,5 +14,6 @@ def main():
 
     print(SemanticVersion(3, 7, 1) == py370)
 
+
 if __name__ == '__main__':
     main()
